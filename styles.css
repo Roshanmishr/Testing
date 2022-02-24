@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    font-family: cursive;
+    
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    border: 2px solid white;
+
+}
+
+.About{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    border: 1px solid white;
+    width: 400px;
+    height: 400px;
+    margin-top: 15px;
+    
+}
+
+
+.languages{
+    border: 1px solid white;
+    color: white;
+    margin: 15px;
+    height: 450px;
+    text-align: center;
+}
+
+.offline{
+    border: 1px solid white;
+    color: white;
+}
